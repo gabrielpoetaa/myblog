@@ -5,3 +5,11 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.post-image{
+text-align: center;
+padding: 20px;
+}
+
+.header-test{
+}
