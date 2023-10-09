@@ -18,14 +18,18 @@ How will it be developed?
 Maintenance of the product once it’s released to the client. 
 The most famous models out there are the sequential, iterative and incremental models. As per sequential models we understand: Waterfall and V-Model. 
 Waterfall: here the development activities happen one after the other. The testing phase has its own place, which is after all other development activities. An example of a general Waterfall model process would be:
+
 Requirements -> Design ->  Development -> Testing -> Deployment -> Maintenance 
+
 V-Model: trying to go around the disadvantages perceived in the Waterfall model, the V-Model was created. The delay in the feedback from one phase to another and the late testing phase can be stated as disadvantages of the Waterfall model. Trying to solve the late test phase issue the V-Model integrated the testing phase early in the process by including test levels on each of the development stages. 
-Business requirements ->  Acceptance Testing
+
+Business requirements ->  Acceptance Testing 
 System Requirements -> System Testing
 Architectural Design -> Integration Testing
 Detailed Design -> Component Testing
 
-The Waterfall and V-Models have drawbacks, tough. Nonetheless the testing phase is found in each and every phase of the V-model the duration of the delivery is still long. To try to overcome the disadvantages of the sequential model the Software Development Process evolved to the iterative and incremental models.   
+The Waterfall and V-Models have drawbacks, tough. Nonetheless the testing phase is found in each and every phase of the V-model the duration of the delivery is still long. To try to overcome the disadvantages of the sequential model the Software Development Process evolved to the iterative and incremental models. 
+
 Incremental: in the incremental model all the stages of the software development are done in pieces, which permits the phases to be completed incrementally.
 Iterative: all the stages come up together to deliver a small working piece of the whole software. Types of iterative models are RUP (Rational Unified Process), Scrum, Kanban and Spiral.
 Both Incremental and Iterative models deliver a working part of the software in weeks or even days. It might be the major difference between them and the sequential model.
