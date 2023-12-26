@@ -5,13 +5,13 @@ feature_image: /assets/images/posts/uml-diagrams-scheme.jpeg
 categories: misc
 ---
 
-<p> With the surge of object-oriented programming in the 80’s organizations felt the necessity to come up with methods that would help design and analyze object oriented software processes. By 1994 Grady Bocch and Jim Rumbaugh joined forces to come up with the first merged method presented to the public in 1995 at OOPSLA (Object-oriented Programming, Systems, Languages, and Applications) conference: version 0.8. Ivar Jacobson later joined the team and by 1996 the three amigos gave a name for the standardization project: Unified Modeling Language (UML).
+With the surge of object-oriented programming in the 80’s organizations felt the necessity to come up with methods that would help design and analyze object oriented software processes. By 1994 Grady Bocch and Jim Rumbaugh joined forces to come up with the first merged method presented to the public in 1995 at OOPSLA (Object-oriented Programming, Systems, Languages, and Applications) conference: version 0.8. Ivar Jacobson later joined the team and by 1996 the three amigos gave a name for the standardization project: Unified Modeling Language (UML).
 
 With the surge of object-oriented programming in the 80’s organizations felt the necessity to come up with methods that would help design and analyze object oriented software processes. By 1994 Grady Bocch and Jim Rumbaugh joined forces to come up with the first merged method presented to the public in 1995 at OOPSLA (Object-oriented Programming, Systems, Languages, and Applications) conference: version 0.8. Ivar Jacobson later joined the team and by 1996 the three amigos gave a name for the standardization project: Unified Modeling Language (UML) .
 
 UML stands for “Unified Modeling Language”. It is a graphical language that helps modeling and developing software systems. It assists to put up software systems that will be built using an object-oriented style (FOWLER, 2003). It is an abstraction that purposely simplifies the system design and identifies the most pertinent characteristics. It’s important to note that UML is not a method or process, but a graphical modeling language.
 
-The use of UML helps us: </p>
+The use of UML helps us:
 <li>
 Communicate certain concepts better. When it comes to coding the struggle is in highlighting the necessary details. In this case UML  gives us precision when trying to go around the software development and explain its processes.
 </li>
