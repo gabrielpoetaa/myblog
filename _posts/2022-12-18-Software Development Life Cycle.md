@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Development Life Cycle"
-feature_image: images/posts/SDLC.png
+feature_image: /assets/images/posts/SDLC.png
 categories: misc
 ---
 
