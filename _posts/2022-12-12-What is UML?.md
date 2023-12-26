@@ -35,7 +35,7 @@ The following picture shows a Sequence Diagram I’ve drawn to show the sequence
   ![Alt text](/assets/images/posts/what-is-uml/sequence-diagram-gabriel.jpeg){: style="display: block; margin: 0 auto; width: 50%; height: auto"}
 
 <div style="text-align: right">
-  <em>(for more information about Sequence Diagrams refer to “Software Engineering – 10th edition” SOMMERVILLE, 2016)</em>
+  <em>(for more information about Sequence Diagrams refer to “Software Engineering – 10th edition” SOMMERVILLE, 201)</em>
 </div>
 <br>
 Again, UML is not a method or process. It is a graphical language that abstracts the design of a module or a system in a simple way. The notation by itself will not teach you how to use the system. We have to combine this notation with good communication and tools which will manipulate the notation. 
