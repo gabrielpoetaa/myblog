@@ -20,7 +20,7 @@ Now I just had to adjust some routes on my Dropdown react component and redirect
 Lots to come 🚀🚀🚀
 <br>
 
-  ![Alt text]({{site.url}}/myblog//assets/images/posts/2023-12-18-code-in-the-cloud/giphy.gif){: style="display: block; margin: 0 auto"}
+  ![Gif of the actor Tom from TV Show Vanderpump Rules celebrating]({{site.url}}/myblog//assets/images/posts/2023-12-18-code-in-the-cloud/giphy.gif){: style="display: block; margin: 0 auto"}
 <br>
-  <!-- ![Alt text](/assets/images/posts/2023-12-18-code-in-the-cloud/giphy.gif){: style="display: block; margin: 0 auto"} -->
+  <!-- ![Gif of the actor Tom from TV Show Vanderpump Rules celebrating](/assets/images/posts/2023-12-18-code-in-the-cloud/giphy.gif){: style="display: block; margin: 0 auto"} -->
 
