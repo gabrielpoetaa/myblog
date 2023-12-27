@@ -20,6 +20,9 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
+baseurl: "/blog"
+
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
