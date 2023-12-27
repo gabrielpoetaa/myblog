@@ -54,7 +54,7 @@ May you all have a blessed holiday season!
 <!-- ![Emoji of Dwight, from The Office TV Show, celebrating Christmas](/assets/images/posts/2023-12-25-the-percentage-jingle/dwight-christmas.gif){: style="display: block; margin: 0 auto; width: 500px; height: 300px;"} -->
 
 
-![Emoji of Dwight, from The Office TV Show, celebrating Christmas]({{site.url}}/myblog/assets/images/posts/2023-12-25-the-percentage-jingle/dwight-christmas.gif){: style="display: block; margin: 0 auto"}
+![Emoji of Dwight, from The Office TV Show, celebrating Christmas]({{site.url}}/myblog/assets/images/posts/2023-12-25-the-percentage-jingle/dwight-christmas.gif){: style="display: block; margin: 0 auto; width: 500px; height: 300px;"}
 
 
 
