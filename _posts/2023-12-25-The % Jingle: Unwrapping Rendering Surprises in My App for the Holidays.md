@@ -18,7 +18,7 @@ Exploring MongoDB documentation, I encountered the term ‘URL Encoding,’ a me
 
 <!-- ![Image of that displays the error within google devops tools](/assets/images/posts/2023-12-25-the-percentage-jingle/cover.png){: style="display: block; margin: 0 auto"} -->
 
-![Image of that displays the error within google devops tools]({{site.url}}/myblog/assets/images/posts/2023-12-25-the-percentage-jingle/cover.png){: style="display: block; margin: 0 auto"}
+![Image of that displays the error within google devops tools]({{site.url}}/assets/images/posts/2023-12-25-the-percentage-jingle/cover.png){: style="display: block; margin: 0 auto"}
 
 <br>
 This issue might not have occurred if I had generated the list of items using unique IDs. Unfortunately, when I initially developed the web scraper, I hadn’t assigned unique IDs to each item. By the time I realized the benefits of doing so, my web scraper had already been collecting data for almost a month. I subsequently implemented the schema with an ‘id’ field for each of the 65 items, but I haven’t had the time to rectify the data collected before this change.
@@ -29,7 +29,7 @@ Returning to the issue, suspecting a problem with the endpoint, I began trying t
 
 <!-- ![Image of first attemp to fix the issue](/assets/images/posts/2023-12-25-the-percentage-jingle/firstFix.png){: style="display: block; margin: 0 auto"} -->
 
-![Image of first attemp to fix the issue]({{site.url}}/myblog/assets/images/posts/2023-12-25-the-percentage-jingle/firstFix.png){: style="display: block; margin: 0 auto"}
+![Image of first attemp to fix the issue]({{site.url}}/assets/images/posts/2023-12-25-the-percentage-jingle/firstFix.png){: style="display: block; margin: 0 auto"}
 
 
 Although the information was now correctly retrieved from the backend, the frontend displayed poorly. Taking a break, I realized that I needed to rethink my approach. Instead of solely focusing on backend and frontend code modifications, I decided to explore adjustments to my web scraper.
@@ -40,7 +40,7 @@ After some thought I considered altering the titles in my database to circumvent
 
 <!-- ![Image of first attemp to fix the issue](/assets/images/posts/2023-12-25-the-percentage-jingle/function.png){: style="display: block; margin: 0 auto"} -->
 
-![Image of first attemp to fix the issue]({{site.url}}/myblog/assets/images/posts/2023-12-25-the-percentage-jingle/function.png){: style="display: block; margin: 0 auto"}
+![Image of first attemp to fix the issue]({{site.url}}/assets/images/posts/2023-12-25-the-percentage-jingle/function.png){: style="display: block; margin: 0 auto"}
 
 The result? It worked flawlessly!
 

@@ -23,7 +23,7 @@ Communicating with Domain Experts: UML definitely assists us better when communi
   </li>
 
 
-  ![Image displaying an UML Diagram]({{site.url}}/myblog/assets/images/posts/uml-diagrams-scheme.jpeg){: style="display: block; margin: 0 auto"}
+  ![Image displaying an UML Diagram]({{site.url}}/assets/images/posts/uml-diagrams-scheme.jpeg){: style="display: block; margin: 0 auto"}
 
 
 In the UML the diagrams are the graphical representation used to perform the abstraction of a software system. There are 13 different types of UML diagrams. We can divide them into two broad categories (Structural and Behavioral) and then again into sub-categories.  A survey (Erickson and Siau, 2007) shows that people find that five, out of the thirteen diagrams, are enough to represent the essentials of a system (Activity diagrams, Use Case diagrams, Sequence diagrams, Class diagrams and State diagrams).
@@ -32,7 +32,7 @@ Structural diagrams are concerned about the static structure of the elements in 
 
 The following picture shows a Sequence Diagram I’ve drawn to show the sequence of messages exchanged between the objects in a transfer operation through a Bank App. The Sequence Diagram is a type of notation that shows the interaction between actors and objects within a given module or application and has its own, and rych, syntax:
 
-  ![Image of a sequence diagram]({{site.url}}/myblog/assets/images/posts/what-is-uml/sequence-diagram-gabriel.jpeg){: style="display: block; margin: 0 auto; width: 50%; height: auto"}
+  ![Image of a sequence diagram]({{site.url}}/assets/images/posts/what-is-uml/sequence-diagram-gabriel.jpeg){: style="display: block; margin: 0 auto; width: 50%; height: auto"}
 
 <div style="text-align: right">
   <em>(for more information about Sequence Diagrams refer to “Software Engineering – 10th edition” SOMMERVILLE, 2016)</em>
