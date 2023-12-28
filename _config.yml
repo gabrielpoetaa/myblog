@@ -22,6 +22,9 @@ theme: minima
 
 # baseurl: "/blog"
 
+include:
+- "*.md"
+- "_posts/**/*"
 
 plugins:
   - jekyll-feed
