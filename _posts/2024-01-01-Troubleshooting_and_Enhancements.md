@@ -65,7 +65,6 @@ The first thing I had to do to get the total number of days was to create a new 
 <!-- ![screen of my vscode showing the aggregation pipeline I've implemented to create a new field that stores the total number of days of my webscraper](/assets/images/posts/2024-01-01-Troubleshooting_and_Enhancements/dateaggregationresult.png){: style="display: block; margin: 0 auto"} -->
 <br>
 <br>
-<br>
 
 
 One last cool thing I wanted to do was to animate these numbers in my frontend. To do that, I used the react-spring package (react-spring on npm). And that was it for today I guess, another mission accomplished!!! 
