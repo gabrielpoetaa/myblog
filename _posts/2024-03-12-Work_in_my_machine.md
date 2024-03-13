@@ -64,7 +64,7 @@ Once all files were transferred to my EC2 instance I was able to then build my d
 
 <br>
 
-![Image of my newly create API route]({{site.url}}/assets/images/posts/2024-03-12-Work_in_my_machine/Dockerfile.png){: style="display: block; margin: 0 auto"}
+![Image of my newly create API route]({{site.url}}/assets/images/posts/2024-03-12-Work_in_my_machine/dockerfile.png){: style="display: block; margin: 0 auto"}
 
 <br>
 <li> After fixing the previous issue another one came up. Now the error message states: “No usable sandbox”. To fix it all I had to do was change my code and include a –no-sandbox argument on puppeteer.launch() function for every single one of my grocery products. </li>
