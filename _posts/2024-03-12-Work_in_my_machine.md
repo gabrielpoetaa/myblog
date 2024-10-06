@@ -35,11 +35,11 @@ In order to send the files over to my EC2 instance I used the Secure Copy Protoc
 <br>
 <br>
 
-- `-i ubuntu.pem`: This flag specifies the identity file (private key) to use for public key authentication. In this case, `ubuntu.pem` is the private key file used to authenticate to the remote server.
+`-i ubuntu.pem`: This flag specifies the identity file (private key) to use for public key authentication. In this case, `ubuntu.pem` is the private key file used to authenticate to the remote server.
 
-- `-r`: This flag indicates that the operation should be recursive, meaning it will copy directories and their contents recursively.
+`-r`: This flag indicates that the operation should be recursive, meaning it will copy directories and their contents recursively.
 
-- `ubuntu@35.183.21.127:/home/ubuntu/downloads/webscraperdockeraws`: This is the destination specification. It includes the username (`ubuntu`) and the IP address (`35.183.21.127`) of the remote server, followed by the directory path (`/home/ubuntu/downloads`) where the files will be copied to.
+`ubuntu@35.183.21.127:/home/ubuntu/downloads/webscraperdockeraws`: This is the destination specification. It includes the username (`ubuntu`) and the IP address (`35.183.21.127`) of the remote server, followed by the directory path (`/home/ubuntu/downloads`) where the files will be copied to.
 <br>
 <br>
 
