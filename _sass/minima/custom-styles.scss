@@ -2,4 +2,56 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 *, body{
   // font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    background: #282a36;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure
+%vertical-rhythm {
+  color: #f8f8f2	;
+}
+
+.site-title {
+  &:visited {
+    color: #f8f8f2;
+  }
+}
+
+.trigger a{
+  color: #f8f8f2;
+
+}
+
+.site-header{
+  border-bottom: 1px solid #f8f8f2	;
+}
+
+.post-meta{
+color: #bd93f9;
+}
+
+.post-link{
+  color: #f8f8f2;
+  &:visited{
+    color: #f8f8f2;
+  }
+}
+
+.post-link:hover{
+  color:#f8f8f2;
+}
+
+article{
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.social-media-list li a, .pagination li a{
+  border:1px solid #f8f8f2	;
+}
+
+
+.svg-icon{
+  color: #f8f8f2		;
 }
