@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up a VM Without Built-In Support"
-feature_image: /assets/images/posts/2024-10-27-Setting_VM/post_title.png
+feature_image: assets/images/posts/2024-10-27-Setting_VM/post_title.png
 categories: misc
 ---
 
