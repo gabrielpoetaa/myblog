@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up a VM Without Built-In Support"
-feature_image: assets/images/posts/2024-10-27-Setting_VM/post_title.png
+feature_image: /assets/images/posts/2024-10-27-Setting_VM/post_title.png
 categories: misc
 ---
 
@@ -11,9 +11,9 @@ What are VM’s (virtual machines)? They’re simply a compute resource that use
 
 <br>
 
-![Image of a computer around the year of 1960](/assets/images/posts/2024-10-27-Setting_VM/ibm.jpg){: style="display: block; margin: 0 auto; height: 300px;"}
+<!-- ![Image of a computer around the year of 1960](/assets/images/posts/2024-10-27-Setting_VM/ibm.jpg){: style="display: block; margin: 0 auto; height: 300px;"} -->
 
-<!-- ![Image of a computer around the year of 1960]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/ibm.jpg){: style="display: block; margin: 0 auto; height: 300px;"} -->
+![Image of a computer around the year of 1960]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/ibm.jpg){: style="display: block; margin: 0 auto; height: 300px;"}
 
 <br>
 
@@ -23,9 +23,9 @@ And what are hypervisors? They are the most essential components in the virtuali
 
 <br>
 
-![Illustration of the types of Virtual Machines](/assets/images/posts/2024-10-27-Setting_VM/VMs.png){: style="display: block; margin: 0 auto; height: 300px;"}
+<!-- ![Illustration of the types of Virtual Machines](/assets/images/posts/2024-10-27-Setting_VM/VMs.png){: style="display: block; margin: 0 auto; height: 300px;"} -->
 
-<!-- ![Illustration of the types of Virtual Machines]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/VMs.png){: style="display: block; margin: 0 auto; height: 300px;"} -->
+![Illustration of the types of Virtual Machines]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/VMs.png){: style="display: block; margin: 0 auto; height: 300px;"}
 
 <br>
 
@@ -34,10 +34,10 @@ I’ve played with Virtualbox before (which is considered a type 2 hypervisor) a
 Proxmox provides a web-based interface for managing your virtual environments, which became pretty handy for someone like me who’s just starting in the game. All right, all was good so far: I’ve started my first home lab and spent $0 making use of a laptop that would probably be thrown away once we remembered it was still around after 10 years.
 
 <br>
+<!-- 
+![Picture of my working laptop and the laptop I used to install Proxmox](/assets/images/posts/2024-10-27-Setting_VM/both_laptops.jpg){: style="display: block; margin: 0 auto; height: 300px;"} -->
 
-![Picture of my working laptop and the laptop I used to install Proxmox](/assets/images/posts/2024-10-27-Setting_VM/both_laptops.jpg){: style="display: block; margin: 0 auto; height: 300px;"}
-
-<!-- ![Picture of my working laptop and the laptop I used to install Proxmox]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/both_laptops.jpg){: style="display: block; margin: 0 auto; height: 300px;"} -->
+![Picture of my working laptop and the laptop I used to install Proxmox]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/both_laptops.jpg){: style="display: block; margin: 0 auto; height: 300px;"}
 
 <br>
 
@@ -45,10 +45,9 @@ But then came the first bump - of course it would. The gracious laptop I’ve de
 
 <br>
 
-![Screenshot of the error in Proxmox](/assets/images/posts/2024-10-27-Setting_VM/VM_not_supported.png){: style="display: block; margin: 0 auto;"}
+<!-- ![Screenshot of the error in Proxmox](/assets/images/posts/2024-10-27-Setting_VM/VM_not_supported.png){: style="display: block; margin: 0 auto;"} -->
 
-<!--
-![Screenshot of the error in Proxmox]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/VM_not_supported.png){: style="display: block; margin: 0 auto;"} -->
+![Screenshot of the error in Proxmox]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/VM_not_supported.png){: style="display: block; margin: 0 auto;"}
 
 <br>
 
@@ -58,9 +57,8 @@ Okay, wrapping it up now… The LXC templates in Proxmox (also referred to as te
 
 <br>
 
-![Screenshot of the error in Proxmox](/assets/images/posts/2024-10-27-Setting_VM/ubuntu_server1.png){: style="display: block; margin: 0 auto;"}
+<!-- ![Screenshot of the error in Proxmox](/assets/images/posts/2024-10-27-Setting_VM/ubuntu_server1.png){: style="display: block; margin: 0 auto;"} -->
 
-<!--
-![Screenshot of the error in Proxmox]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/ubuntu_server1.png){: style="display: block; margin: 0 auto;"} -->
+![Screenshot of the error in Proxmox]({{site.url}}/assets/images/posts/2024-10-27-Setting_VM/ubuntu_server1.png){: style="display: block; margin: 0 auto;"}
 
 <br>
