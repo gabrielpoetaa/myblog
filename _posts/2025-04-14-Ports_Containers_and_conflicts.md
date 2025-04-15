@@ -50,6 +50,16 @@ With the new port mapping, I tested the external access:
 
 `ngrok tcp 5433`
 
+<!--
+![Image of a computer around the year of 1960](assets/images/posts/2025-04-14-Ports_Containers_and_conflicts/ngrok.png){: style="display: block; margin: 0 auto; height: 300px;"} -->
+<br>
+<br>
+
+![Image of a computer around the year of 1960]({{site.url}}/assets/images/posts/2025-04-14-Ports_Containers_and_conflicts/ngrok.png){: style="display: block; margin: 0 auto;"}
+
+<br>
+<br>
+
 This time, it worked perfectly. I could connect to the local PostgreSQL database from another machine using the ngrok host. Connection successful, RAG tests running smoothly.
 <br>
 <br>
